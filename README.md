@@ -134,13 +134,6 @@ The fingerprints are on the release page and in the attached `SHA256SUMS` file.
 
 The fingerprint must be the same as the one written next to the file's name in `SHA256SUMS`. If it differs, do not open the file and download it again.
 
-## Not in this version
-
-- No online version, no client access, no email invitations.
-- One person per copy of Norma: everyone has their own, with their own data.
-- No sync between computers: use a backup to move your data.
-- No automatic updates.
-
 ## Licence
 
 Norma is free for every professional and organisation, but it is not open source. Its use is governed by [LICENSE.txt](LICENSE.txt) (Italian: [LICENZA.txt](LICENZA.txt), which prevails). You may share the original, unmodified zip files; please prefer sharing the link to this Releases page, where each file can be checked against `SHA256SUMS`. The third-party components included in Norma stay under their own licences, listed in the `THIRD-PARTY-NOTICES.txt` file inside the app (on a Mac: `Norma.app/Contents/Resources/`; on Windows: the `resources` folder next to `Norma.exe`).
