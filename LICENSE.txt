@@ -1,0 +1,25 @@
+Norma — Freeware Licence
+
+Copyright (c) 2026 Jeru Marciano. All rights reserved.
+
+Norma is free. You may install it on any number of computers and use it
+in your professional work, including for your clients, and you may share
+the original zip files with anyone, unmodified and free of charge. You
+may not modify, sell or decompile it, try to obtain its source code, or
+remove this notice.
+
+The third-party components it includes stay under their own licences,
+listed in THIRD-PARTY-NOTICES.txt inside the app (for the GMP library,
+under LGPL-3.0, the rights to modify and replace it that its licence
+grants apply).
+
+Norma is a support tool: it does not replace the official text of the
+standards, legal advice or your professional judgement, and it is not
+affiliated with ISO, IEC, ACN or any other body.
+
+NORMA IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND. TO THE MAXIMUM
+EXTENT PERMITTED BY LAW, THE AUTHOR IS NOT LIABLE FOR ANY DAMAGE ARISING
+FROM ITS USE, INCLUDING LOSS OF DATA.
+
+This licence is governed by Italian law. If it differs from the Italian
+version (LICENZA.txt), the Italian version prevails.

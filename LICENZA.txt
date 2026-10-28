@@ -1,0 +1,25 @@
+Norma — Licenza d'uso freeware
+
+Copyright (c) 2026 Jeru Marciano. Tutti i diritti riservati.
+
+Norma è gratuita. Puoi installarla su quanti computer vuoi e usarla nel
+tuo lavoro professionale, anche per i tuoi clienti, e puoi condividere
+con chiunque i file zip originali, senza modificarli e senza chiedere
+compensi. Non puoi modificarla, venderla, decompilarla o cercare di
+ricavarne il codice sorgente, né togliere questo avviso.
+
+I componenti di terzi inclusi restano sotto le loro licenze, elencate in
+THIRD-PARTY-NOTICES.txt dentro l'app (per la libreria GMP, sotto
+LGPL-3.0, valgono i diritti di modifica e sostituzione che quella
+licenza concede).
+
+Norma è uno strumento di supporto: non sostituisce il testo ufficiale
+delle norme, la consulenza legale o il tuo giudizio professionale, e non
+è affiliata a ISO, IEC, ACN o altri enti.
+
+NORMA È FORNITA «COSÌ COM'È», SENZA ALCUNA GARANZIA. NEI LIMITI MASSIMI
+CONSENTITI DALLA LEGGE, L'AUTORE NON RISPONDE DI ALCUN DANNO DERIVANTE
+DAL SUO USO, COMPRESA LA PERDITA DI DATI.
+
+Questa licenza è regolata dalla legge italiana. In caso di differenze con
+la versione inglese (LICENSE.txt), prevale questa.
